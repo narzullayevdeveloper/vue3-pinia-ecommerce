@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Olma",
+    "imgUrl": "https://dostavo4ka.uz/upload-file/2021/05/05/4921/750x750-7bffb8d4-039d-4d80-bf98-5feb96961f95.jpg",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "title": "Tarvuz",
+    "imgUrl": "https://odam.uz/upload/media/posts/2017-08/07/tarvuz-haqida-6-ta-kutilmagan-fakt_1502115265-b.jpg",
+    "price": 15000
+  },
+  {
+    "id": 3,
+    "title": "Shaftoli",
+    "imgUrl": "https://sirstat.uz/images/yangiliklar/01.11.2022/photo_2022-11-07_10-42-08.jpg",
+    "price": 7000
+  },
+  {
+    "id": 4,
+    "title": "Gilos",
+    "imgUrl": "https://files.glotr.uz/company/000/000/448/products/2013/01/30/13595593263201-9f0e573ecafa4c6bf4c2c44bad4a5d05.jpg",
+    "price": 3000
+  },
+  {
+    "id": 5,
+    "title": "Uzum",
+    "imgUrl": "https://oyina.uz/storage/funnies/January2022/WKDfMwm3cwEwjQa6U4FG.jpg",
+    "price": 9000
+  }
+]
